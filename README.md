@@ -11,13 +11,13 @@ Code will coming soon
 ---
 
 ## Train
-- requirement:
+   - requirement: 
 
-      cv2
+    cv2
   
-      pywavelets == 1.0.3
+    pywavelets == 1.0.3
   
-      skimage == 0.16.2
+    skimage == 0.16.2
   
 ### Prepare Dataset
 1. Download [div2k]() & [fliker2k]() for train.
