@@ -16,4 +16,4 @@ Code will coming soon
      note we use all fliker2k and div2k's train set for train.
   2. Change trainset_path in train_config.py to save patches.
   
-     You can change patch_size and patch_stride to control patch size and patch number.
+     You can change patch_size and patch_stride to control patch size and number of patches.
