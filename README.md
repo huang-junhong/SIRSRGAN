@@ -10,7 +10,7 @@ Code will coming soon
 
 
 ## Train
-*Prepare Dataset:
+* Prepare Dataset:
   1. Download [div2k]() & [fliker2k]() for train.
   
      note we use all fliker2k and div2k's train set for train.
