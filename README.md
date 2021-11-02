@@ -50,4 +50,4 @@ Code will coming soon
 
   PI also relay on matlab, donwload code from this [link]() and follow guide.
 * LPIPS
-  LPIPS's official code is [here]().
+  LPIPS's official code is [here](). In SIR-SRGAN we use VGG19 as backbone.
