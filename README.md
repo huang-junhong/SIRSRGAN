@@ -1,9 +1,8 @@
 # SIRSRGAN
 [SIR-SRGAN]() has been accepted by bmvc2021.
-Code will coming soon
 
 ## Quick Test
-* Download our [pre-train model]().
+* Download our [pre-train model](https://drive.google.com/drive/folders/1QdJrnhAnA-skwuzWDosHqfj-N_g1FjiE?usp=sharing).
 - Change model_path in test_config.py for load model 
 * Run test.py
 - Get results in model folder
